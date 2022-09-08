@@ -1,6 +1,6 @@
 # BeatSaber_IgnoreWrongColor
 
-Simple plugin that ignores interaction of sabers with blocks of not-their-color, thus allowing for more creative patterns without needing to worry about badcutting. Commissionned by Nolanimations, who also created a map himself for this :D https://beatsaver.com/maps/29b9c
+Simple plugin that ignores interaction of sabers with blocks of not-their-color, thus allowing for more creative patterns without needing to worry about badcutting. Commissioned by Nolanimations, who also created a map himself for this :D https://beatsaver.com/maps/29b9c
 
 ### Players
 
